@@ -21,9 +21,15 @@
     },
     {
       "id":13,
-      "title":"Charli D'Amelio",
+      "title":"CharliD'Amelio",
       "image":"https://alfaruqapp.github.io/img/charlidamelio.webp",
       "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.charlidamelio"
+    },
+    {
+      "id":14,
+      "title":"Domelipa",
+      "image":"https://alfaruqapp.github.io/img/domelipa.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.domelipa"
     }
   ]
 
