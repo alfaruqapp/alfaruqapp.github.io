@@ -3,13 +3,11 @@
       {
       "more_app"                  : "1",
       "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "FACEBOOK",
+      "select_backup_ads"         : "APPLOVIN-D-NB",
 
       "main_ads_banner"           : "YOUR_PLACEMENT_ID",
       "main_ads_intertitial"      : "ca-app-pub-1655044323490601/1128568708",
       "native_for_admob"          : "ca-app-pub-1655044323490601/7502405362",
-
-      "applovin_intertitial"      : "017728388beaccc5",
 
       "fan_ads_banner"            : "654301665555792_669714504014508",
       "fan_ads_intertitial"       : "654301665555792_654301705555788",

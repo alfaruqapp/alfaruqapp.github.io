@@ -30,6 +30,18 @@
       "title":"Domelipa",
       "image":"https://alfaruqapp.github.io/img/domelipa.webp",
       "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.domelipa"
+    },
+    {
+      "id":15,
+      "title":"Giovanna Alparone",
+      "image":"https://alfaruqapp.github.io/img/giovannaalparone.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.giovannaalparone"
+    },
+    {
+      "id":16,
+      "title":"Karol G",
+      "image":"https://alfaruqapp.github.io/img/karolg.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.karolg"
     }
   ]
 
