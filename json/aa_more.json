@@ -44,6 +44,12 @@
       "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.karolg"
     },
     {
+      "id":17,
+      "title":"Karol Sevilla",
+      "image":"https://alfaruqapp.github.io/img/karolsevilla.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.karolsevilla"
+    },
+    {
       "id":18,
       "title":"Khabib",
       "image":"https://alfaruqapp.github.io/img/khabibnurmagomedov.webp",
