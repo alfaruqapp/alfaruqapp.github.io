@@ -3,11 +3,9 @@
       {
       "more_app"                  : "1",
       "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "APPLOVIN-D-NB",
+      "select_backup_ads"         : "APPLOVIN-D",
 
       "main_ads_banner"           : "YOUR_PLACEMENT_ID",
-      "main_ads_intertitialx"      : "9e414b6f916ef019",
-
       "main_ads_intertitial"      : "ca-app-pub-1655044323490601/1217343824",
       "native_for_admob"          : "ca-app-pub-1655044323490601/8683742630",
 
@@ -15,7 +13,7 @@
       "fan_ads_intertitial"       : "631556171197357_631556237864017",
 
       "backup_ads_banner"         : "qwerty1234",
-      "backup_ads_intertitial"    : "qwerty1234",
+      "backup_ads_intertitial"    : "9e414b6f916ef019",
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
 
