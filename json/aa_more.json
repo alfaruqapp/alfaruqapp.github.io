@@ -51,6 +51,12 @@
     },
     {
       "id":18,
+      "title":"Khaby Lame",
+      "image":"https://alfaruqapp.github.io/img/khabylame.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.khabylame"
+    },
+    {
+      "id":19,
       "title":"Khabib",
       "image":"https://alfaruqapp.github.io/img/khabibnurmagomedov.webp",
       "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.khabibnurmagomedov"
