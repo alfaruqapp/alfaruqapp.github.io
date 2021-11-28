@@ -57,6 +57,12 @@
     },
     {
       "id":19,
+      "title":"Kim Loaiza",
+      "image":"https://alfaruqapp.github.io/img/kimberlyloaiza.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.kimberlyloaiza"
+    },
+    {
+      "id":20,
       "title":"Khabib",
       "image":"https://alfaruqapp.github.io/img/khabibnurmagomedov.webp",
       "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.khabibnurmagomedov"
