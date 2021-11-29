@@ -2,8 +2,8 @@
   "Ads": [
       {
       "more_app"                  : "0",
-      "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "FACEBOOK",
+      "select_main_ads"           : "IRON",
+      "select_backup_ads"         : "IRON",
 
       "main_ads_banner"           : "YOUR_PLACEMENT_ID",
       "main_ads_intertitial"      : "YOUR_PLACEMENT_ID",
@@ -24,7 +24,7 @@
       "high_paying_keyword_2": "health insurance",
       "high_paying_keyword_3": "education insurance",
       "high_paying_keyword_4": "architect",
-      "high_paying_keyword_5": "property",
+      "high_paying_keyword_5": "car insurance",
 
       "status_app": "0",
       "link_redirect": "https://"
