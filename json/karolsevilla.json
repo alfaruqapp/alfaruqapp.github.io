@@ -2,7 +2,7 @@
   "Ads": [
       {
       "more_app"                  : "1",
-      "select_main_ads"           : "ADMOB",
+      "select_main_ads"           : "IRON",
       "select_backup_ads"         : "APPLOVIN-D",
 
       "main_ads_banner"           : "YOUR_PLACEMENT_ID",
@@ -14,8 +14,9 @@
 
       "backup_ads_banner"         : "qwerty1234",
       "backup_ads_intertitial"    : "qwerty1234",
-      "initialize_sdk"            : "",
-      "initialize_sdk_backup_ads" : "",
+
+      "initialize_sdk"            : "123a819ed",
+      "initialize_sdk_backup_ads" : "123a819ed",
 
       "interval_intertitial"      : 5,
 
