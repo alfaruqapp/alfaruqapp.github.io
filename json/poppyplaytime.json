@@ -2,7 +2,7 @@
   "Ads": [
       {
       "more_app"                  : "1",
-      "select_main_ads"           : "IRON",
+      "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-D",
 
       "main_ads_banner"           : "YOUR_PLACEMENT_ID",
@@ -18,7 +18,7 @@
       "initialize_sdk"            : "123e2880d",
       "initialize_sdk_backup_ads" : "123e2880d",
 
-      "interval_intertitial"      : 5,
+      "interval_intertitial"      : 3,
 
       "high_paying_keyword_1": "life insurance",
       "high_paying_keyword_2": "health insurance",
