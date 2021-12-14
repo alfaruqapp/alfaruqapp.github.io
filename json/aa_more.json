@@ -78,6 +78,12 @@
       "title":"Kylie Jenner",
       "image":"https://alfaruqapp.github.io/img/kyliejenner.webp",
       "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.kyliejenner"
+    },
+    {
+      "id":22,
+      "title":"Lady Diana",
+      "image":"https://alfaruqapp.github.io/img/ladydiana.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.ladydiana"
     }
   ]
 
