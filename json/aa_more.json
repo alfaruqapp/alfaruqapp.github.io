@@ -90,6 +90,30 @@
       "title":"Mont Pantoja",
       "image":"https://alfaruqapp.github.io/img/montpantoja.webp",
       "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.montpantoja"
+    },
+    {
+      "id":24,
+      "title":"Rod Contreras",
+      "image":"https://alfaruqapp.github.io/img/rodrigocontreras.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.rodrigocontreras"
+    },
+    {
+      "id":25,
+      "title":"J-Hope BTS",
+      "image":"https://alfaruqapp.github.io/img/btsjhope.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btsjhope"
+    },
+    {
+      "id":26,
+      "title":"Jin BTS",
+      "image":"https://alfaruqapp.github.io/img/btsjin.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btsjin"
+    },
+    {
+      "id":27,
+      "title":"Jimin BTS",
+      "image":"https://alfaruqapp.github.io/img/btsjimin.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btsjimin"
     }
   ]
 
