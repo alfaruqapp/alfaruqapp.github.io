@@ -114,6 +114,30 @@
       "title":"Jimin BTS",
       "image":"https://alfaruqapp.github.io/img/btsjimin.webp",
       "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btsjimin"
+    },
+    {
+      "id":28,
+      "title":"Jungkook BTS",
+      "image":"https://alfaruqapp.github.io/img/btsjungkook.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btsjungkook"
+    },
+    {
+      "id":29,
+      "title":"Taehyung BTS",
+      "image":"https://alfaruqapp.github.io/img/btstaehyung.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btstaehyung"
+    },
+    {
+      "id":30,
+      "title":"Suga BTS",
+      "image":"https://alfaruqapp.github.io/img/btssuga.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btssuga"
+    },
+    {
+      "id":31,
+      "title":"RM BTS",
+      "image":"https://alfaruqapp.github.io/img/btskimnamjoon.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btskimnamjoon"
     }
   ]
 
