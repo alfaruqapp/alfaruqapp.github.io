@@ -14,6 +14,12 @@
       "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.huggywuggy"
     },
     {
+      "id":10,
+      "title":"Ronaldo",
+      "image":"https://alfaruqapp.github.io/img/cristianoronaldo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.cristianoronaldo"
+    },
+    {
       "id":11,
       "title":"Addison Rae",
       "image":"https://alfaruqapp.github.io/img/addisonrae.webp",
@@ -138,6 +144,48 @@
       "title":"RM BTS",
       "image":"https://alfaruqapp.github.io/img/btskimnamjoon.webp",
       "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btskimnamjoon"
+    },
+    {
+      "id":32,
+      "title":"Jennie Blackpink",
+      "image":"https://alfaruqapp.github.io/img/blackpinkjennie.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.blackpinkjennie"
+    },
+    {
+      "id":33,
+      "title":"Rose Blackpink",
+      "image":"https://alfaruqapp.github.io/img/blackpinkrose.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.blackpinkrose"
+    },
+    {
+      "id":34,
+      "title":"Lisa Blackpink",
+      "image":"https://alfaruqapp.github.io/img/blackpinklisa.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.blackpinklisa"
+    },
+    {
+      "id":35,
+      "title":"Jisoo Blackpink",
+      "image":"https://alfaruqapp.github.io/img/blackpinkjisoo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.blackpinkjisoo"
+    },
+    {
+      "id":36,
+      "title":"Jisoo Blackpink",
+      "image":"https://alfaruqapp.github.io/img/blackpinkjisoo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.blackpinkjisoo"
+    },
+    {
+      "id":37,
+      "title":"Kim Seon-ho",
+      "image":"https://alfaruqapp.github.io/img/kimseonho.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.kimseonho"
+    },
+    {
+      "id":38,
+      "title":"Cha Eun-woo",
+      "image":"https://alfaruqapp.github.io/img/chaeunwoo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.chaeunwoo"
     }
   ]
 
