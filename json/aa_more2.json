@@ -102,6 +102,12 @@
       "title":"Kayess",
       "image":"https://alfaruqapp.github.io/img/kayess.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.kayess"
+    },
+    {
+      "id":42,
+      "title":"Bulan Sutena",
+      "image":"https://alfaruqapp.github.io/img/bulansutena.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.bulansutena"
     }
   ]
 
