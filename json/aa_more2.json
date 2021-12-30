@@ -108,6 +108,24 @@
       "title":"Bulan Sutena",
       "image":"https://alfaruqapp.github.io/img/bulansutena.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.bulansutena"
+    },
+    {
+      "id":43,
+      "title":"Wahyu Kadeo",
+      "image":"https://alfaruqapp.github.io/img/wahyukadeo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.wahyukadeo"
+    },
+    {
+      "id":44,
+      "title":"Dini LIDA",
+      "image":"https://alfaruqapp.github.io/img/dinilida.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.dinilida"
+    },
+    {
+      "id":45,
+      "title":"FrostDiamond",
+      "image":"https://alfaruqapp.github.io/img/frostdiamond.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.frostdiamond"
     }
   ]
 
