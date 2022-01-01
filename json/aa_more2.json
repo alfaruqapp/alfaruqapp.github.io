@@ -126,6 +126,18 @@
       "title":"FrostDiamond",
       "image":"https://alfaruqapp.github.io/img/frostdiamond.webp",
       "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.frostdiamond"
+    },
+    {
+      "id":46,
+      "title":"Ria Ricis",
+      "image":"https://alfaruqapp.github.io/img/riaricis.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.riaricis"
+    },
+    {
+      "id":46,
+      "title":"Alwi Assegaf",
+      "image":"https://alfaruqapp.github.io/img/alwiassegaf.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.alwiassegaf"
     }
   ]
 
