@@ -1,9 +1,9 @@
 {
   "Ads": [
       {
-      "more_app"                  : "0",
-      "select_main_ads"           : "IRON-A",
-      "select_backup_ads"         : "APPLOVIN-D",
+      "more_app"                  : "1",
+      "select_main_ads"           : "ADMOB",
+      "select_backup_ads"         : "APPLOVIN-M",
 
       "main_ads_banner"           : "YOUR_PLACEMENT_ID",
       "main_ads_intertitial"      : "ca-app-pub-1655044323490601/1520254246",
@@ -12,8 +12,8 @@
       "fan_ads_banner"            : "294522252688252_294522306021580",
       "fan_ads_intertitial"       : "294522252688252_294522302688247",
 
-      "backup_ads_banner"         : "qwerty1234",
-      "backup_ads_intertitial"    : "qwerty1234",
+      "backup_ads_banner"         : "bf09956cae33bad5",
+      "backup_ads_intertitial"    : "415236e6fa06a135",
       
       "initialize_sdk"            : "129e5f11d",
       "initialize_sdk_backup_ads" : "129e5f11d",

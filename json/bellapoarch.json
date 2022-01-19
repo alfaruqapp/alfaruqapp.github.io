@@ -2,8 +2,8 @@
   "Ads": [
       {
       "more_app"                  : "1",
-      "select_main_ads"           : "IRON",
-      "select_backup_ads"         : "APPLOVIN-D",
+      "select_main_ads"           : "ADMOB",
+      "select_backup_ads"         : "APPLOVIN-M",
 
       "main_ads_banner"           : "BELUM_SUPPORT_BANNER",
       "main_ads_intertitial"      : "ca-app-pub-1655044323490601/6323277459",
@@ -12,8 +12,8 @@
       "fan_ads_banner"            : "598836124875928_598836754875865",
       "fan_ads_intertitial"       : "598836124875928_598836274875913",
 
-      "backup_ads_banner"         : "qwerty1234",
-      "backup_ads_intertitial"    : "qwerty1234",
+      "backup_ads_banner"         : "4ef992622f3a57de",
+      "backup_ads_intertitial"    : "acce678a11a43cd6",
       
       "initialize_sdk"            : "126848045",
       "initialize_sdk_backup_ads" : "126848045",
